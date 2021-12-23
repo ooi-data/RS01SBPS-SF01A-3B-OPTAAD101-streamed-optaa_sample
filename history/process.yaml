@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SBPS-SF01A-3B-OPTAAD101-streamed-optaa_sample
 data_stream: RS01SBPS-SF01A-3B-OPTAAD101-streamed-optaa_sample
 end_date: '2021-09-15T21:45:00.755Z'
-last_updated: '2021-12-22T05:02:45.546403Z'
+last_updated: '2021-12-23T05:03:59.166012'
 start_date: '2014-10-06T21:48:00.000Z'
-status: pending
+status: failed
